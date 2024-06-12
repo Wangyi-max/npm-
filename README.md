@@ -1,12 +1,14 @@
-# My Project
+#  用 npm script 打造超溜的前端工作流
+       
 
-This is a sample project.
+学习 npm scripts 有很多好处，尤其对于前端开发者和全栈开发者来说，它能够极大地提升开发效率和工作流的自动化程度。
 
-## Missing Title
-This is a section without a proper title
+npm scripts 可以用来自动化常见的开发任务，如：
 
-## Another Section
+- 代码编译（例如使用 Babel 将 ES6 代码编译成 ES5）
+- 测试（例如运行单元测试或集成测试）
+- 代码检查和格式化（例如使用 ESLint 和 Prettier）
+- 构建（例如打包项目文件）
+- 部署（例如将代码部署到服务器或 CDN）
 
-* Item 1
-* Item 2
-* Item without a space
+通过 npm scripts，你可以在项目中定义一组标准化的任务，团队中的每个成员都可以使用相同的命令来执行这些任务，确保一致性和规范性。 
